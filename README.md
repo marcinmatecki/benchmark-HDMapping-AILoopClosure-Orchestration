@@ -6,9 +6,9 @@ Deep learning
 | Name | Paper | Code | Year | Conference/Venue | Model available | Input data type | Sensor used | ROS version |
 |------|-------|------|------|------------------|-----------------|-----------------|-------------|-------------|
 | PointNetVLAD - MICHAL.W.| [CVPR 2018](https://arxiv.org/abs/1804.03492) | [GitHub](https://github.com/mikacuy/pointnetvlad) | 2018 | CVPR | Yes | 3D point cloud | LiDAR | N/A |
-| PCAN OSKAR.B| [CVPR 2019](https://arxiv.org/abs/1904.09793) | [GitHub](https://github.com/XLechter/PCAN) | 2019 | CVPR | Yes | 3D point cloud | LiDAR | N/A |
+| PCAN - OSKAR.B| [CVPR 2019](https://arxiv.org/abs/1904.09793) | [GitHub](https://github.com/XLechter/PCAN) | 2019 | CVPR | Yes | 3D point cloud | LiDAR | N/A |
 | LPD-Net - MICHAL.W.| [ICCV 2019](https://arxiv.org/abs/1812.07050) | [GitHub](https://github.com/Suoivy/LPD-net) | 2019 | ICCV | Yes | 3D point cloud | LiDAR | N/A |
-| DH3D MARCIN.M.| [ECCV 2020](https://arxiv.org/abs/2007.09217) | [GitHub](https://github.com/JuanDuGit/DH3D) | 2020 | ECCV | Yes | 3D point cloud | LiDAR | N/A |
+| DH3D - MARCIN.M.| [ECCV 2020](https://arxiv.org/abs/2007.09217) | [GitHub](https://github.com/JuanDuGit/DH3D) | 2020 | ECCV | Yes | 3D point cloud | LiDAR | N/A |
 | SegMap - KAROL.M | [RSS 2018 / IJRR](https://arxiv.org/abs/1804.09557) | [GitHub](https://github.com/ethz-asl/segmap) | 2020 | RSS / IJRR | Yes | 3D point cloud segments | LiDAR | ROS 1 (Indigo/Kinetic) |
 | OverlapNet - MICHAL.P| [RSS 2020](https://arxiv.org/abs/2105.11344) | [GitHub](https://github.com/PRBonn/OverlapNet) | 2020 | RSS | Yes | Range/normal/intensity images | LiDAR | N/A |
 | SG_PR - MAKSYMILIAN.K| [IROS 2020](https://arxiv.org/abs/2008.11459) | [GitHub](https://github.com/kxhit/SG_PR) | 2020 | IROS | Yes | Semantic graph | LiDAR | N/A |
